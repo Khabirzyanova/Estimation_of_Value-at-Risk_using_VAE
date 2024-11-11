@@ -1,1 +1,1 @@
-# Estimation_of_Value-at-Risk_using_VAE
+# Estimation of Value-at-Risk using VAE
