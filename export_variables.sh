@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/mnt/c/Users/Алия/darts:$LD_LIBRARY_PATH
